@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+#hero {
+  padding-top: 8rem;
+  padding-bottom: 3rem;
+}
+
+#hero img {
+  width: 250px;
+}
+
+#gallery {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+#form {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+#blog {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
